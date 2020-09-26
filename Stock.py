@@ -40,7 +40,7 @@ mpf.plot(
         type='candle', 
         style='charles', 
         figscale=2.5, 
-        title=company_code, 
+        title=company_code,
         ylabel='Price ($)', 
         mav=(5,20,50), 
         volume=True, 
